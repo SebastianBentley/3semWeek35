@@ -3,7 +3,7 @@
 
 ## 01-tuesday-exercises - All fully completed
 
-* **firstjpa** folder shows cod for a connection to a local database, with "country" as example.
+* **firstjpa** folder shows code for a connection to a local database, with "country" as example.
 * **point** folder is solution for tuesday EX-1 JPA exercise.
 * **w1ex2** folder is solution for tuesday EX-2 The Entity Class and Facades
 
