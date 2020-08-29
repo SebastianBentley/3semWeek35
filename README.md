@@ -16,11 +16,11 @@
 
 * **jpql-demo-for-day4-master** folder is solution to thursdays Exercise 0: JPQL.
 * **week1-simple-jpa-rest-master** is solution to thursdays Exercise 1: Using the start code.
-* Link to deployet project: [I'm an inline-style link](http://134.122.81.155:8081/jpa_rest_startup-1.0/api/employee/all)
+* Link to deployet project: [Thursday Exercise](http://134.122.81.155:8081/jpa_rest_startup-1.0/api/employee/all)
 
 ## 04-friday-exercises - All fully completed
 * **week1-friday** is solution for friday exercises.
-* Link to deployet project: [I'm an inline-style link](http://134.122.81.155:8081/jpa_rest_friday-1.0/api/bankcustomer/all)
+* Link to deployet project: [Friday Exercise](http://134.122.81.155:8081/jpa_rest_friday-1.0/api/bankcustomer/all)
 
 
 ### Editor used - Netbeans 12.0
